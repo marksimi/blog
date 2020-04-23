@@ -1,1 +1,1 @@
-Sitemap: https://marksimi.github.io/blog/sitemap.xml
+Sitemap: https://marksimi.com/sitemap.xml
