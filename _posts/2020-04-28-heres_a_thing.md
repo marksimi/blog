@@ -1,6 +1,10 @@
-2020-04-28-heres_a_thing.md
-
-# Here’s a Thing
+---
+toc: true
+layout: post
+description: Adventures in initial blog posts.
+categories: [markdown]
+title: Here’s a Thing
+---
 
 Writing the first post feels too big.
 
