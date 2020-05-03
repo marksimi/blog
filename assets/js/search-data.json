@@ -57,6 +57,14 @@
   
 
   
+      ,"page5": {
+          "title": "Writing",
+          "content": "This is a placeholder for all posts. .",
+          "url": "https://marksimi.com/writing/",
+          "relUrl": "/writing/",
+          "date": ""
+      }
+      
   
 
   
@@ -66,7 +74,10 @@
   
 
   
-      ,"page8": {
+  
+
+  
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://marksimi.com/robots.txt",
