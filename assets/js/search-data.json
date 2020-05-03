@@ -51,13 +51,24 @@
   
 
   
+      ,"page3": {
+          "title": "Reading",
+          "content": "This is a placeholder for summaries. .",
+          "url": "https://marksimi.com/reading/",
+          "relUrl": "/reading/",
+          "date": ""
+      }
+      
   
 
   
   
 
   
-      ,"page5": {
+  
+
+  
+      ,"page6": {
           "title": "Writing",
           "content": "This is a placeholder for all posts. .",
           "url": "https://marksimi.com/writing/",
@@ -77,7 +88,7 @@
   
 
   
-      ,"page9": {
+      ,"page10": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://marksimi.com/robots.txt",
